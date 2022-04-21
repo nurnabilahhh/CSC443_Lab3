@@ -9,8 +9,8 @@
 <body>
     <?php
     //This is a comment
-    //echo "X equals $x";
-    echo $x;
+    //echo "X equals $x by 10";
+    echo $x = 10;
     $x += 10; // Increment $x by 10
     /* This is a section
     of multiline comments
