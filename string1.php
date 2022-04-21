@@ -10,7 +10,7 @@
     <?php
     function add ($x,$y) {
         $sum = $x + $y;
-        return $summ;
+        return $sum;
     }
     $num1 = 11;
     $num2 = 15;
