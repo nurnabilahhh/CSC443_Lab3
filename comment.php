@@ -16,5 +16,6 @@
     of multiline comments
     that will not be
     interpreted */
+    ?>
 </body>
 </html>
